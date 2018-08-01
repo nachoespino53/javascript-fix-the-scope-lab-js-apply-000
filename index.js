@@ -9,16 +9,16 @@ function yourAnimal() {
   return animal;
 }
 
-// function add2(n) {
+ function add2(n) {
 // <<<<<<< HEAD
-//   const two = 2;
-//   return n + two;
+   const two = 2;
+   return n + two;
 // =======
 //   const two = 2
 //   return n + two
 // >>>>>>> 046cd0a702dbe5fc5e580ed4c629c3413a0077c3
   
-// }
+ }
 
 var funkyFunction = function() {
   return function() {
